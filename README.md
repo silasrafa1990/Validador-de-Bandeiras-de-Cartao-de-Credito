@@ -1,1 +1,1 @@
-# Validador-de-Bandeiras-de-Cartao-de-Credito
+Prompt :preciso criar um validador de cartao de credito, que verifique o numero inserido, se é valido e qual é a sua bandeira. Sabendo que é os exemplos para as bandeiras são : Mastercard = 5561 0337 5311 4900 , Visa = 4539 2407 0752 3332, American Express = 3401 962387 76228, Diners Club = 3017 448876 2730, Discover = 6011 1227 2344 2022, EnRoute = 2149 5164767 1300, JCB = 3533 0235 7444 7837, Voyager = 86990 5722 83821 6, HiperCard = 6062 8289 5837 7869
